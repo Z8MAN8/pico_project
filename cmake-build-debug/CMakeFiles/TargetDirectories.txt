@@ -1,0 +1,3 @@
+/home/csc/Develop_Enviroment/pico/project/cmake-build-debug/CMakeFiles/rtthread.elf.dir
+/home/csc/Develop_Enviroment/pico/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/csc/Develop_Enviroment/pico/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
